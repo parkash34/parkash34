@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,5,30&height=220&section=header&text=Om%20Parkash&fontSize=75&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,22,25&height=220&section=header&text=Om%20Parkash&fontSize=75&fontColor=000000&animation=descending" />
   
   <p align="center">
     <strong>🚀 Java Backend Engineer | Spring Boot Enthusiast | CS Student @ ELTE</strong>
@@ -59,5 +59,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parkash34&color=007396&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=parkash34&color=000000&style=flat-square&label=PROFILE+VIEWS" />
 </div>
