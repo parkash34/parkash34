@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=200&section=header&text=Ohm%20Parkash&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Om%20Parkash&fontSize=70&animation=fadeIn" />
   
   <p align="center">
     <strong>Java Backend Developer | Spring Boot Enthusiast | CS @ ELTE</strong>
@@ -16,7 +16,7 @@
 ### ⚡ About Me
 - 🎓 **Academic:** Computer Science student at **Eötvös Loránd University (ELTE)**.
 - 🏗️ **Core Focus:** Building robust, scalable backends with **Java** and **Spring Boot**.
-- 🧵 **Deep Dive:** Currently mastering **Concurrent Programming** and thread safety.
+- 🧵 **Deep Dive:** Mastering **Concurrent Programming** and thread safety.
 - 🎯 **Goal:** Transitioning into a professional Java Backend Engineer.
 
 ---
@@ -35,21 +35,20 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" width="300" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" width="300" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkash34&theme=tokyonight" width="710" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkash34&theme=tokyonight" width="710" />
 </div>
 
 ---
 
 ### 🚀 Projects in Progress
-
-- **[Spring Boot Task Manager](https://github.com/parkash34)**: RESTful API with secure authentication and database persistence.
-- **[Concurrency Lab](https://github.com/parkash34)**: Implementations of thread-safe collections and synchronization patterns.
-- **[DSA Java](https://github.com/parkash34)**: My journey through algorithmic problem solving.
+- **Spring Boot Task Manager**: RESTful API with secure authentication and database persistence.
+- **Concurrency Lab**: Implementations of thread-safe collections and synchronization patterns.
+- **DSA Java**: My journey through algorithmic problem solving.
 
 ---
 
