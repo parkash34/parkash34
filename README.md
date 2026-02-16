@@ -33,15 +33,14 @@
 ---
 
 ### 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" width="300" alt="Top Languages" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkash34&theme=tokyonight&hide_border=true" width="710" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkash34&theme=tokyonight" width="710" alt="GitHub Streak" />
 </div>
 
 ---
