@@ -8,7 +8,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/om-parkash-a93a87275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:your.email@elte.hu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   </p>
 </div>
 
@@ -34,10 +33,16 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="300" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkash34&theme=tokyonight&hide_border=true" width="710" />
+</div>
 
 ---
 
@@ -45,7 +50,7 @@
 
 - **[Spring Boot Task Manager](https://github.com/parkash34)**: RESTful API with secure authentication and database persistence.
 - **[Concurrency Lab](https://github.com/parkash34)**: Implementations of thread-safe collections and synchronization patterns.
-- **[DSA Java](https://github.com/parkash34)**: My journey through algorithmic problem solving, optimized for time and space.
+- **[DSA Java](https://github.com/parkash34)**: My journey through algorithmic problem solving.
 
 ---
 
