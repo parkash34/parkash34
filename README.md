@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ohm%20Parkash&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=200&section=header&text=Ohm%20Parkash&fontSize=70&animation=fadeIn" />
   
   <p align="center">
-    <strong>Full-Stack Java Enthusiast | Spring Boot Architect | CS Student @ ELTE</strong>
+    <strong>Java Backend Developer | Spring Boot Enthusiast | CS @ ELTE</strong>
   </p>
 
   <p align="center">
@@ -14,38 +14,44 @@
 
 ---
 
-### ⚡ Quick Bytes
-- 🎓 **Currently:** Pursuing Computer Science at **Eötvös Loránd University (ELTE)**.
-- 🛠️ **Deep Dive:** Mastering **Concurrent Programming** and **Microservices Architecture**.
-- 🏗️ **Building:** Scalable backend systems that prioritize performance and thread safety.
-- 🔭 **Focus:** Moving through Phase IV of my development roadmap—transitioning from "coder" to "engineer."
+### ⚡ About Me
+- 🎓 **Academic:** Computer Science student at **Eötvös Loránd University (ELTE)**.
+- 🏗️ **Core Focus:** Building robust, scalable backends with **Java** and **Spring Boot**.
+- 🧵 **Deep Dive:** Currently mastering **Concurrent Programming** and thread safety.
+- 🎯 **Goal:** Transitioning into a professional Java Backend Engineer.
 
 ---
 
-### 🛠 Tech Stack & Toolbox
+### 🛠 Tech Stack & Workflow
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
-| **DevOps/OS** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| **IDEs** | ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) |
+| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **IDE** | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) |
 
 ---
 
-### 🚀 Featured Engineering Labs
+### 📊 Coding Activity & Stats
+*These stats update automatically based on my IDE activity.*
 
-- **[Spring Task Master](link-to-repo)**: A high-concurrency REST API leveraging Spring Security and JWT.
-- **[Multithreaded Java Playground](link-to-repo)**: Exploring the nuances of the `java.util.concurrent` package, avoiding deadlocks, and optimizing race conditions.
-- **[Algorithmic Sandbox](link-to-repo)**: A curated collection of DSA patterns solved with an emphasis on time complexity and clean code.
-
----
-
-### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=parkash34&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+</p>
+
+---
+
+### 🚀 Projects in Progress
+
+- **[Spring Boot Task Manager](https://github.com/parkash34/repo-name)**: RESTful API with secure authentication and database persistence.
+- **[Concurrency Lab](https://github.com/parkash34/repo-name)**: Implementations of thread-safe collections and synchronization patterns.
+- **[DSA Java](https://github.com/parkash34/repo-name)**: My journey through algorithmic problem solving, optimized for time and space.
 
 ---
 
@@ -54,5 +60,5 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parkash34&color=7ed321&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=parkash34&color=007396&style=flat-square&label=PROFILE+VIEWS" />
 </p>
