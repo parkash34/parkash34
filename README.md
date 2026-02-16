@@ -1,54 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Om%20Parkash&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,5,30&height=220&section=header&text=Om%20Parkash&fontSize=75&animation=twinkling" />
   
   <p align="center">
-    <strong>Java Backend Developer | Spring Boot Enthusiast | CS @ ELTE</strong>
+    <strong>🚀 Java Backend Engineer | Spring Boot Enthusiast | CS Student @ ELTE</strong>
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/om-parkash-a93a87275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your.email@elte.hu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/om-parkash-a93a87275" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="28" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your.email@elte.hu" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="28" alt="Email" />
+    </a>
   </p>
 </div>
 
 ---
 
-### ⚡ About Me
-- 🎓 **Academic:** Computer Science student at **Eötvös Loránd University (ELTE)**.
-- 🏗️ **Core Focus:** Building robust, scalable backends with **Java** and **Spring Boot**.
-- 🧵 **Deep Dive:** Mastering **Concurrent Programming** and thread safety.
-- 🎯 **Goal:** Transitioning into a professional Java Backend Engineer.
+## 👨‍💻 About Me
+
+- 🔭 I'm a **Computer Science student** at **Eötvös Loránd University (ELTE)**.  
+- 🌱 Currently deep-diving into **Java, Spring Boot, & Concurrent Programming**.  
+- ⚡ Passionate about building high-performance, **multithreaded backend systems**.  
+- 🎯 Goal: Mastering the art of **Clean Code** and scalable architecture.
 
 ---
 
-### 🛠 Tech Stack & Workflow
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
-| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **IDE** | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) |
-
----
-
-### 📊 GitHub Activity
+## 🛠 Skills & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" width="300" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkash34&theme=tokyonight" width="710" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" title="Spring Boot" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" title="Bash" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" title="IntelliJ IDEA" />
 </div>
 
 ---
 
-### 🚀 Projects in Progress
-- **Spring Boot Task Manager**: RESTful API with secure authentication and database persistence.
-- **Concurrency Lab**: Implementations of thread-safe collections and synchronization patterns.
-- **DSA Java**: My journey through algorithmic problem solving.
+## 🚀 Key Projects
+
+- **Spring Boot Task Manager** – A secure REST API backend for managing tasks efficiently.
+- **Concurrent Java Demo** – Multithreaded application focused on thread safety and synchronization patterns.
+- **DSA Engineering** – Optimized Java solutions for complex algorithmic challenges.
 
 ---
 
@@ -56,6 +58,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Write%20code%20like%20a%20craftsman%2C%20solve%20problems%20like%20a%20detective." />
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=parkash34&color=007396&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+</div>
