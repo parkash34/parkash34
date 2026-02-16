@@ -33,25 +33,19 @@
 
 ---
 
-### 📊 Coding Activity & Stats
-*These stats update automatically based on my IDE activity.*
-
+### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=parkash34&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🚀 Projects in Progress
 
-- **[Spring Boot Task Manager](https://github.com/parkash34/repo-name)**: RESTful API with secure authentication and database persistence.
-- **[Concurrency Lab](https://github.com/parkash34/repo-name)**: Implementations of thread-safe collections and synchronization patterns.
-- **[DSA Java](https://github.com/parkash34/repo-name)**: My journey through algorithmic problem solving, optimized for time and space.
+- **[Spring Boot Task Manager](https://github.com/parkash34)**: RESTful API with secure authentication and database persistence.
+- **[Concurrency Lab](https://github.com/parkash34)**: Implementations of thread-safe collections and synchronization patterns.
+- **[DSA Java](https://github.com/parkash34)**: My journey through algorithmic problem solving, optimized for time and space.
 
 ---
 
