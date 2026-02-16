@@ -1,81 +1,58 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ohm%20Parkash&fontSize=70&animation=fadeIn" />
+  
+  <p align="center">
+    <strong>Full-Stack Java Enthusiast | Spring Boot Architect | CS Student @ ELTE</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/om-parkash-a93a87275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your.email@elte.hu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  </p>
 </div>
 
-<h1 align="center">Hi, I'm Ohm 👋</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Problem Solver</h3>
+---
+
+### ⚡ Quick Bytes
+- 🎓 **Currently:** Pursuing Computer Science at **Eötvös Loránd University (ELTE)**.
+- 🛠️ **Deep Dive:** Mastering **Concurrent Programming** and **Microservices Architecture**.
+- 🏗️ **Building:** Scalable backend systems that prioritize performance and thread safety.
+- 🔭 **Focus:** Moving through Phase IV of my development roadmap—transitioning from "coder" to "engineer."
+
+---
+
+### 🛠 Tech Stack & Toolbox
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
+| **DevOps/OS** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **IDEs** | ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) |
+
+---
+
+### 🚀 Featured Engineering Labs
+
+- **[Spring Task Master](link-to-repo)**: A high-concurrency REST API leveraging Spring Security and JWT.
+- **[Multithreaded Java Playground](link-to-repo)**: Exploring the nuances of the `java.util.concurrent` package, avoiding deadlocks, and optimizing race conditions.
+- **[Algorithmic Sandbox](link-to-repo)**: A curated collection of DSA patterns solved with an emphasis on time complexity and clean code.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/om-parkash-a93a87275" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@elte.hu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="28" alt="Email" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="28" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="28" alt="Instagram" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Write%20code%20like%20a%20craftsman%2C%20solve%20problems%20like%20a%20detective." />
 </div>
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 I'm a **Computer Science student** at **Eötvös Loránd University**  
-- 🌱 Currently improving my skills in **Java, Spring Boot, DSA & Concurrent Programming**  
-- ⚡ Passionate about solving **complex problems** and building **real-world backend systems**  
-- 🎯 Goal: Become a **Java backend engineer**, contributing to production-level applications
-
----
-
-## 🛠 Skills & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
-</div>
-
----
-
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Projects & Highlights
-
-- **Spring Boot Task Manager** – REST API backend for task management with authentication  
-- **Concurrent Java Demo** – Multithreaded application showcasing thread safety & synchronization  
-- **DSA Solutions** – Collection of Java solutions for algorithmic challenges  
-
-*(More projects coming soon!)*
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parkash34&color=brightgreen" alt="Profile Views" />
-</div>
-
----
-
-> “Write code like a craftsman, solve problems like a detective, and keep learning every day.”
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parkash34&color=7ed321&style=flat-square&label=PROFILE+VIEWS" />
+</p>
