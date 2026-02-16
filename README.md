@@ -1,73 +1,81 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47z54ubs6zczt3rmdkhxfezvzzygxl4j97xsqzzt68&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+  <img height="150" src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" />
 </div>
 
-###
+<h1 align="center">Hi, I'm Ohm 👋</h1>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Problem Solver</h3>
 
-<h1 align="center">hey there 👋</h1>
-
-###
+---
 
 <div align="center">
-  <a href="www.linkedin.com/in/om-parkash-a93a87275" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/om-parkash-a93a87275" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:your.email@elte.hu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="28" alt="Email" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="28" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="28" alt="Instagram" />
+  </a>
 </div>
 
-###
+---
 
-<h3 align="center">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+- 🔭 I'm a **Computer Science student** at **Eötvös Loránd University**  
+- 🌱 Currently improving my skills in **Java, Spring Boot, DSA & Concurrent Programming**  
+- ⚡ Passionate about solving **complex problems** and building **real-world backend systems**  
+- 🎯 Goal: Become a **Java backend engineer**, contributing to production-level applications
 
-<p align="center">- 🔭  Software Engineering student at MUET.<br>- 📚 Currently learning JAVA, DSA & Data Science<br>- ⚡ In my free time I prefer watching Netflix</p>
+---
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Skills & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=parkash34&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
 </div>
 
-###
+---
+
+## 🚀 Projects & Highlights
+
+- **Spring Boot Task Manager** – REST API backend for task management with authentication  
+- **Concurrent Java Demo** – Multithreaded application showcasing thread safety & synchronization  
+- **DSA Solutions** – Collection of Java solutions for algorithmic challenges  
+
+*(More projects coming soon!)*
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkash34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=parkash34&color=brightgreen" alt="Profile Views" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/parkash34/count.svg?"  />
-</div>
-
-###
+> “Write code like a craftsman, solve problems like a detective, and keep learning every day.”
