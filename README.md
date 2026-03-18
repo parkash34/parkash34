@@ -64,26 +64,6 @@
 
 ---
 
-## 🚀 Key Projects
-
-### 🌤️ AI Weather Assistant
-> AI-powered weather assistant that fetches real-time data and generates human-friendly summaries using Groq's LLaMA 3.3 70B.
-- **Stack:** Python · Groq API · LLaMA 3.3 70B · Open-Meteo API · REST APIs
-
-### ✅ Spring Boot Task Manager
-> A secure REST API backend for managing tasks efficiently.
-- **Stack:** Java · Spring Boot · REST APIs
-
-### ⚙️ Concurrent Java Demo
-> Multithreaded application focused on thread safety and synchronization patterns.
-- **Stack:** Java · Multithreading · Concurrency
-
-### 🧩 DSA Engineering
-> Optimized Java solutions for complex algorithmic challenges.
-- **Stack:** Java · Data Structures · Algorithms
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
