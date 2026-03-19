@@ -18,13 +18,10 @@
 
 ### 👋 Hey, I'm Om
 
-I'm a Computer Science student at **Eötvös Loránd University (ELTE)** in Budapest,
-building things at the intersection of **backend engineering** and **artificial intelligence**.
+CS student at **ELTE, Budapest**. I build backends with Java & Spring Boot,
+mess around with AI agents and LLMs, and I'm pushing code every day.
 
-By day I architect APIs and services. By night I wire up AI agents that actually do things.
-And every single morning — one DSA problem, no excuses.
-
-> *"I don't just want software that works. I want software that lasts."*
+Still learning. Always building.
 
 ---
 
@@ -77,22 +74,11 @@ And every single morning — one DSA problem, no excuses.
 
 ---
 
-### 🗓️ The daily system
-
-```
-  Wake up  →  1 DSA problem  →  build something  →  push to GitHub  →  repeat
-```
-
-No streaks for show. Just the discipline of showing up, every day.
-
----
-
 ### 📬 Let's connect
 
-I'm always open to talk about backend architecture, AI agent design,
-or just swap ideas with other builders.
+Open to interesting conversations, collaborations, or just talking tech.
 
-**Reach me on [LinkedIn](https://www.linkedin.com/in/om-parkash-a93a87275) or drop an [email](mailto:your.email@elte.hu).**
+**[LinkedIn](https://www.linkedin.com/in/om-parkash-a93a87275) · [Email](mailto:your.email@elte.hu)**
 
 ---
 
