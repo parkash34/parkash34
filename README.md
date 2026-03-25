@@ -18,23 +18,32 @@
 
 ### 👋 Hey, I'm Om
 
-CS student at **ELTE, Budapest**. I build backends with Java & Spring Boot,
-mess around with AI agents and LLMs, and I'm pushing code every day.
+I'm a 2nd-year Computer Science student at **ELTE University** in Budapest. I have a strong foundation in Java and am very comfortable building with Python. Right now, I'm highly focused on bridging backend development with artificial intelligence. 
 
-Still learning. Always building.
+**Current Focus:**
+* 🤖 Building and exploring **AI Agents** and frameworks.
+* 🍃 Deepening my backend knowledge with **Spring Boot**.
+* 🧠 Solving **DSA** problems daily on LeetCode.
 
 ---
 
-### 🧠 What I'm working with
+### 🚀 Featured Project
+
+**[AI Interview Preparation Bot](#)** *(Add your repo link here)*
+An intelligent bot designed to help users prepare for interviews by leveraging AI to simulate questions, provide feedback, and improve overall interview performance.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-| Layer | Technologies |
+| Category | Technologies |
 |---|---|
 | **Languages** | Java · Python |
-| **Backend** | Spring Boot · REST APIs |
-| **AI / LLM** | AI Agents · LLMs · Groq API · OpenAI |
-| **Toolchain** | Git · Linux · Bash · IntelliJ IDEA |
+| **Backend & Frameworks** | Spring Boot · AI Frameworks |
+| **Core Concepts** | Data Structures & Algorithms (DSA) |
+| **Tools & OS** | Git · Linux · Bash |
 
 </div>
 
@@ -47,14 +56,13 @@ Still learning. Always building.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" title="Spring Boot"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" title="Git"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" title="Linux"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" title="Bash"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" title="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" title="Bash"/>
 
 </div>
 
 ---
 
-### 📈 GitHub at a glance
+### 📈 GitHub Stats
 
 <div align="center">
 
