@@ -69,7 +69,7 @@
         <h2>🤖 <a href="#">AI Interview Prep Bot</a></h2>
         <p>A smart, autonomous agent designed to simulate high-stakes technical interviews. Built to dynamically generate role-specific questions, evaluate user responses in real-time, and deliver actionable insights to master the interview process.</p>
         <br/>
-        <b><a href="#">[ View Repository ]</a></b>
+        <b><a href="#">[https://github.com/parkash34/ai-interview-preparation-bot]</a></b>
       </td>
     </tr>
   </table>
