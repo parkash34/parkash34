@@ -13,41 +13,30 @@
 
 ## About me
 
-Computer Science student at ELTE, Budapest. I build backends in Java
-and Python, work with FastAPI, and recently got into AI Agents —
-spending most of my time on them now.
+2nd year CS student at ELTE Budapest. I write Java, build backends, and lately I've been spending most of my time on AI agents — tried it once, liked it, went down the rabbit hole and haven't really come back.
 
-Strong in Java and OOP. I do LeetCode regularly to keep DSA sharp.
+Strong in Java and OOP, practice DSA on LeetCode regularly, and currently learning Spring Boot properly. When I'm not coding, I'm playing cricket on weekends.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+**Languages & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,fastapi,spring,sqlite&perline=5)](https://skillicons.dev)
 
 **AI & Agents**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&perline=5)](https://skillicons.dev)
+<sub>+ LangChain · LangGraph · Groq · RAG</sub>
 
-**Backend & APIs**
+**Tools**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,bash,postman,vscode&perline=5)](https://skillicons.dev)
 
-**Tools & Fundamentals**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-0EA5E9?style=flat-square&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-22C55E?style=flat-square&logoColor=white)
+</div>
 
 ---
 
