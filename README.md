@@ -23,18 +23,7 @@ Strong in Java and OOP, practice DSA on LeetCode regularly, and currently learni
 
 <div align="center">
 
-**Languages & Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,fastapi,spring,sqlite&perline=5)](https://skillicons.dev)
-
-**AI & Agents**
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&perline=5)](https://skillicons.dev)
-<sub>+ LangChain · LangGraph · Groq · RAG</sub>
-
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,linux,bash,postman,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,fastapi,spring,sqlite,git,linux,bash,vscode,postman&perline=10)](https://skillicons.dev)
 
 </div>
 
