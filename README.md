@@ -1,22 +1,7 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    ██████╗ ██╗  ██╗███╗   ███╗    ██████╗  █████╗ ██████╗   ║
-║   ██╔═══██╗██║  ██║████╗ ████║    ██╔══██╗██╔══██╗██╔══██╗  ║
-║   ██║   ██║███████║██╔████╔██║    ██████╔╝███████║██████╔╝  ║
-║   ██║   ██║██╔══██║██║╚██╔╝██║    ██╔═══╝ ██╔══██║██╔══██╗  ║
-║   ╚██████╔╝██║  ██║██║ ╚═╝ ██║    ██║     ██║  ██║██║  ██║  ║
-║    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ║
-║                                                               ║
-║         Backend Dev · AI Agent Builder · CS @ ELTE            ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
+# Hi, I'm Ohm 👋
+### CS student @ ELTE Budapest · Backend Dev · AI Agent Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-parkash34/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohm.parkash34@gmail.com)
@@ -27,13 +12,11 @@
 
 ---
 
-## 👋 Hey, I'm Ohm
+## About me
 
-> *2nd-year CS student at **ELTE Budapest** who genuinely enjoys the process of figuring things out.*
+2nd year CS student at ELTE Budapest. I write Java, build backends, and lately I've been spending most of my time on AI agents — tried it once, liked it, went down the rabbit hole and haven't really come back.
 
-I build backends and AI-powered systems — not because it sounds impressive, but because I find it genuinely interesting to take a messy problem and turn it into something that actually works. Right now I'm deep in the world of **AI agents** and **LLM workflows**, while slowly getting more comfortable with **Spring Boot** on the backend side.
-
-I'm the kind of person who'll spend an evening reading docs just because something didn't quite make sense. Still learning a lot — but building real things along the way.
+Strong in Java and OOP, practice DSA on LeetCode regularly, and currently learning Spring Boot properly. When I'm not coding, I'm playing cricket on weekends.
 
 ---
 
@@ -117,20 +100,18 @@ Pick a track — **Python Developer**, **Java Developer**, or **AI Engineer** �
 
 ## 🌱 Currently
 
-- Building more **AI agent systems** — exploring memory, tool use, and multi-step reasoning
-- Getting deeper into **Spring Boot** — REST APIs, service layers, and backend architecture
-- Grinding **DSA** consistently on LeetCode
+- Learning **Spring Boot** — building REST APIs, figuring out the backend architecture side of things
+- Exploring more with **AI agents** — memory, tool use, multi-step workflows
+- Doing **LeetCode** regularly to keep DSA sharp
 
 ---
 
-## 📬 Let's talk
-
-If you're working on something cool, want to collaborate, or just want to geek out about AI agents — I'm always happy to chat.
+## 📬 Get in touch
 
 **[LinkedIn](https://www.linkedin.com/in/om-parkash34/) · [Email](mailto:ohm.parkash34@gmail.com)**
 
 ---
 
 <div align="center">
-  <sub>Built with curiosity · Powered by too many LLM docs · Located somewhere in Budapest ☕</sub>
+  <sub>CS student · Budapest · usually either coding or playing cricket</sub>
 </div>
