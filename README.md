@@ -31,41 +31,6 @@ Strong in Java and OOP. I do LeetCode regularly to keep DSA sharp.
 
 ---
 
-## 🚀 Projects
-
-### 🤖 Multi-Agent Restaurant System
-> *Three AI agents that actually talk to each other — so you don't have to talk to one confused one.*
-
-A multi-agent system where specialized agents handle **menu**, **reservations**, and **FAQs** independently, with LLM-powered routing deciding who picks up each request. Built with LangGraph for agent orchestration and SQLite for persistence.
-
-`Python` `FastAPI` `LangGraph` `Groq AI` `SQLite` `Multi-Agent`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parkash34/multi_agent_restaurant_system)
-
----
-
-### 🧑‍💼 AI Recruitment Screening Agent
-> *Reads CVs so hiring managers don't have to lose their minds doing it.*
-
-Automatically analyzes and ranks job applicants across **4 scoring categories**, with built-in anti-discrimination guardrails and detailed reports per candidate. Designed to speed up early-stage screening without the bias.
-
-`Python` `FastAPI` `Groq AI` `REST API`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parkash34/ai_recruitment_screening_agent)
-
----
-
-### 🎙️ AI Interview Preparation Bot
-> *Practice interviews until they stop being scary.*
-
-Pick a track — **Python Developer**, **Java Developer**, or **AI Engineer** — answer 5 questions one by one, get feedback on each answer, and receive a final score out of 10. Powered by **LLaMA 3.3 70B** via Groq. A REST API you can actually learn from.
-
-`Python` `FastAPI` `LLaMA 3.3 70B` `Groq` `REST API`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parkash34/ai-interview-preparation-bot)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
