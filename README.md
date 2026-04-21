@@ -1,89 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:e2e8f0,100:cbd5e1&height=180&section=header&text=Ohm%20Parkash&fontSize=72&fontColor=0f172a&animation=fadeIn&fontAlignY=42&desc=Backend%20Developer%20%20%7C%20%20AI%20Agent%20Builder%20%20%7C%20%20CS%20%40%20ELTE%20Budapest&descSize=16&descColor=64748b&descAlignY=65"/>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    ██████╗ ██╗  ██╗███╗   ███╗    ██████╗  █████╗ ██████╗   ║
+║   ██╔═══██╗██║  ██║████╗ ████║    ██╔══██╗██╔══██╗██╔══██╗  ║
+║   ██║   ██║███████║██╔████╔██║    ██████╔╝███████║██████╔╝  ║
+║   ██║   ██║██╔══██║██║╚██╔╝██║    ██╔═══╝ ██╔══██║██╔══██╗  ║
+║   ╚██████╔╝██║  ██║██║ ╚═╝ ██║    ██║     ██║  ██║██║  ██║  ║
+║    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ║
+║                                                               ║
+║         Backend Dev · AI Agent Builder · CS @ ELTE            ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-parkash34/)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohm.parkash34@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=parkash34&color=0f172a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/parkash34)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-parkash34/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohm.parkash34@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkash34)
+[![Profile Views](https://komarev.com/ghpvc/?username=parkash34&color=blueviolet&style=for-the-badge&label=VISITORS)](https://github.com/parkash34)
 
 </div>
-
-<br/>
-
-<h2 align="center"> 🚀 Transforming Logic into Intelligent Systems </h2>
-
-<div align="center">
-  <p>
-    I'm a 2nd-year CS student at <b>ELTE Budapest</b> specializing in backend architectures and integrating them with next-generation AI agents. Whether it's crafting an API, building an LLM workflow, or grinding daily LeetCode algorithms, I am obsessed with building scalable solutions.
-  </p>
-</div>
-
-<br/>
-
-### 🧰 Tech Arsenal
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,git,linux,bash&perline=6" alt="Tech Stack Icons"/>
-  </a>
-</div>
-<div align="center">
-  <sub><b>& AI Frameworks | LLMs | Data Structures & Algorithms</b></sub>
-</div>
-
-<br/>
-
-### 🎯 Current Trajectory
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Engineering</h3>
-      <ul>
-        <li>Architecting backend solutions with <b>Spring Boot</b></li>
-        <li>Designing autonomous <b>AI Agents</b> for real-world tasks</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Optimization</h3>
-      <ul>
-        <li>Daily <b>DSA</b> problem solving on LeetCode</li>
-        <li>Mastering core system operations and Linux workflows</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&hide_border=true&bg_color=transparent&title_color=0f172a&text_color=475569&icon_color=0f172a&include_all_commits=true&count_private=true&custom_title=Activity&theme=transparent" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&hide_border=true&bg_color=transparent&title_color=0f172a&text_color=475569&theme=transparent" width="48%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parkash34&hide_border=true&background=transparent&stroke=e2e8f0&ring=0f172a&fire=0f172a&currStreakLabel=0f172a&sideLabels=94a3b8&dates=94a3b8&currStreakNum=0f172a&sideNums=475569" width="60%"/>
-</div>
-
-<br/>
 
 ---
 
-### 📬 Let's connect
+## 👋 Hey, I'm Ohm
 
-Open to interesting conversations, collaborations, or just talking tech.
+> *2nd-year CS student at **ELTE Budapest** who genuinely enjoys the process of figuring things out.*
+
+I build backends and AI-powered systems — not because it sounds impressive, but because I find it genuinely interesting to take a messy problem and turn it into something that actually works. Right now I'm deep in the world of **AI agents** and **LLM workflows**, while slowly getting more comfortable with **Spring Boot** on the backend side.
+
+I'm the kind of person who'll spend an evening reading docs just because something didn't quite make sense. Still learning a lot — but building real things along the way.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**AI & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Fundamentals**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-0EA5E9?style=flat-square&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-22C55E?style=flat-square&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🤖 Multi-Agent Restaurant System
+> *Three AI agents that actually talk to each other — so you don't have to talk to one confused one.*
+
+A multi-agent system where specialized agents handle **menu**, **reservations**, and **FAQs** independently, with LLM-powered routing deciding who picks up each request. Built with LangGraph for agent orchestration and SQLite for persistence.
+
+`Python` `FastAPI` `LangGraph` `Groq AI` `SQLite` `Multi-Agent`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parkash34/multi_agent_restaurant_system)
+
+---
+
+### 🧑‍💼 AI Recruitment Screening Agent
+> *Reads CVs so hiring managers don't have to lose their minds doing it.*
+
+Automatically analyzes and ranks job applicants across **4 scoring categories**, with built-in anti-discrimination guardrails and detailed reports per candidate. Designed to speed up early-stage screening without the bias.
+
+`Python` `FastAPI` `Groq AI` `REST API`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parkash34/ai_recruitment_screening_agent)
+
+---
+
+### 🎙️ AI Interview Preparation Bot
+> *Practice interviews until they stop being scary.*
+
+Pick a track — **Python Developer**, **Java Developer**, or **AI Engineer** — answer 5 questions one by one, get feedback on each answer, and receive a final score out of 10. Powered by **LLaMA 3.3 70B** via Groq. A REST API you can actually learn from.
+
+`Python` `FastAPI` `LLaMA 3.3 70B` `Groq` `REST API`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parkash34/ai-interview-preparation-bot)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkash34&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=38bdf8&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkash34&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parkash34&hide_border=true&background=0d1117&stroke=30363d&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
+</div>
+
+---
+
+## 🌱 Currently
+
+- Building more **AI agent systems** — exploring memory, tool use, and multi-step reasoning
+- Getting deeper into **Spring Boot** — REST APIs, service layers, and backend architecture
+- Grinding **DSA** consistently on LeetCode
+
+---
+
+## 📬 Let's talk
+
+If you're working on something cool, want to collaborate, or just want to geek out about AI agents — I'm always happy to chat.
 
 **[LinkedIn](https://www.linkedin.com/in/om-parkash34/) · [Email](mailto:ohm.parkash34@gmail.com)**
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cbd5e1,50:e2e8f0,100:f8fafc&height=120&section=footer"/>
-
+  <sub>Built with curiosity · Powered by too many LLM docs · Located somewhere in Budapest ☕</sub>
 </div>
