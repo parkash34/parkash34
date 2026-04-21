@@ -13,9 +13,11 @@
 
 ## About me
 
-2nd year CS student at ELTE Budapest. I write Java, build backends, and lately I've been spending most of my time on AI agents — tried it once, liked it, went down the rabbit hole and haven't really come back.
+Computer Science student at ELTE, Budapest. I build backends in Java
+and Python, work with FastAPI, and recently got into AI Agents —
+spending most of my time on them now.
 
-Strong in Java and OOP, practice DSA on LeetCode regularly, and currently learning Spring Boot properly. When I'm not coding, I'm playing cricket on weekends.
+Strong in Java and OOP. I do LeetCode regularly to keep DSA sharp.
 
 ---
 
